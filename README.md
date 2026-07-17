@@ -20,26 +20,6 @@ Power BI Desktop for data modeling, visualization, and report design
 DAX for all custom measures and calculations
 CSV as the source data format
 
-
-Repository Structure
-
-banking-capstone-dashboard/
-├── README.md
-├── Banking_Capstone_Dashboard.pbix
-├── data/
-│   └── Banking_Capstone_Cleaned_Dataset.csv
-├── docs/
-│   └── DAX_measures.md
-└── screenshots/
-    ├── 01_executive_overview.png
-    ├── 02_customer_analytics.png
-    ├── 03_transaction_analytics.png
-    ├── 04_loan_portfolio.png
-    ├── 05_credit_card_analytics.png
-    ├── 06_risk_anomaly_analytics.png
-    ├── 07_customer_experience.png
-    └── 08_business_insights.png
-
 Key DAX Measures
 A full list of measures used across the report is documented in docs/DAX_measures.md. Core measures include Total Customers, Total Deposits, Total Withdrawals, Net Balance, Total Loan, Average Loan, Total Credit Limit, Average Credit Utilization, Rewards Points, Anomalies, Complaint Count, and Resolved Rate.
 
